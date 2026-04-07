@@ -1,0 +1,215 @@
+a c e g i k m o q s u w y
+d f h j l n p r t v x z b 
+
+
+b d f h j l n p r t v x z 
+e g i k m o q s u w y a c 
+
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+d e f g h i  j k l m n o p q r s t u v w x y z a b c
+
+jupiter
+
+initial access granted
+location data 1/10: te9pd3tqxw
+
+location_md5=00000000000000000000000000000000,airport=nevada25.84,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+**wzjwj oqlp ndg uwakiym**;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+determining chosen lane for travel: earth.jup
+retrieving information about current planet
+initializing parameters for take off procedure
+location data 2/10: wkmyo81vte
+selecting airport for takeoff
+location data 3/10: ppjhhujns0
+requesting to clear air field
+scanning air field
+scanning air field (infra-red)
+location data 4/10: gnxpemah1g
+synchronizing threads
+location data 5/10: 4mqrlpxni7
+vehicle chosed for travel: id 2554
+preparing wormhole engine
+checking available time for travel
+location data 6/10: ybnxivxxm7
+getting utt body indexes
+location data 7/10: pxkjqcbxp0
+starting takeoff procedure
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+**wzjwj oqlp ndg uwakiym**;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+landing airport ready at home planet
+clearing air space at home planet
+location data 8/10: 1yzmm6i2sh
+takeoff systems operational
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+**wzjwj oqlp ndg uwakiym**;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+location data 9/10: b9cwwvbflo
+getting information required for takeoff back to home planet
+checking for compatible version
+determining chosen lane for travel: earth.jup
+location data 10/10: u9tioaxemt
+initializing parameters for take off procedure
+location data 1/10: te9pd3tqxw
+selecting airport for takeoff
+airport selected for takeoff: nevada25.84
+requesting to clear air field
+location data 2/10: wkmyo81vte
+scanning air field (infra-red)
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+location data 3/10: ppjhhujns0
+synchronizing threads
+retrieving information available vehicles for takeoff
+vehicle chosed for travel: id 2554
+location data 4/10: gnxpemah1g
+checking available time for travel
+location data 5/10: 4mqrlpxni7
+getting utt body indexes
+deploying anti-anti aircraft systems
+starting takeoff procedure
+location data 6/10: ybnxivxxm7
+clearing air space at home planet
+location data 7/10: pxkjqcbxp0
+takeoff systems operational
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+**wzjwj oqlp ndg uwakiym**;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+getting information required for takeoff back to home planet
+location data 8/10: 1yzmm6i2sh
+determining chosen lane for travel: earth.jup
+location data 9/10: b9cwwvbflo
+initializing parameters for take off procedure
+retrieving temperature at current planet
+selecting airport for takeoff
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+**wzjwj oqlp ndg uwakiym**;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+location data 10/10: u9tioaxemt
+requesting to clear air field
+timed out
+
+
+te9pd3tqxwwkmyo81vteppjhhujns0gnxpemah1g4mqrlpxni7ybnxivxxm7pxkjqcbxp01yzmm6i2shb9cwwvbflou9tioaxemt
+
+te9pd3tqxwwkmyo81vteppjhhujns0gnxpemah1g4mqrlpxni7ybnxivxxm7pxkjqcbxp01yzmm6i2shb9cwwvbflou9tioaxemt
+
+             68cdaeac7bb51cd583415ba2fa552d5c
+
+location_md5=68cdaeac7bb51cd583415ba2fa552d5c,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+
+
+
+
+
+up
+
+wrong planet! to initiate a come back, please enter the name of one of the planets in the solar system.
+
+jupiter
+
+initial access granted
+location data 1/10: hwuym7iiwf
+
+location_md5=00000000000000000000000000000000,airport=nevada25.84,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+determining chosen lane for travel: earth.jup
+retrieving information about current planet
+initializing parameters for take off procedure
+location data 2/10: 9yisawl6d5
+selecting airport for takeoff
+location data 3/10: vh8ps1atqt
+requesting to clear air field
+scanning air field
+scanning air field (infra-red)
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+location data 4/10: au9o4ahva0
+synchronizing threads
+location data 5/10: 6x3browk35
+vehicle chosed for travel: id 2554
+preparing wormhole engine
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+checking available time for travel
+location data 6/10: h1wodeu2kj
+getting utt body indexes
+location data 7/10: 2fntxdg3yk
+starting takeoff procedure
+landing airport ready at home planet
+clearing air space at home planet
+location data 8/10: msry1f6lsw
+takeoff systems operational
+location data 9/10: 6aov505ssn
+getting information required for takeoff back to home planet
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+checking for compatible version
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+determining chosen lane for travel: earth.jup
+location data 10/10: 1yv7j18iod
+initializing parameters for take off procedure
+location data 1/10: hwuym7iiwf
+selecting airport for takeoff
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+airport selected for takeoff: nevada25.84
+requesting to clear air field
+location data 2/10: 9yisawl6d5
+scanning air field (infra-red)
+location data 3/10: vh8ps1atqt
+synchronizing threads
+retrieving information available vehicles for takeoff
+vehicle chosed for travel: id 2554
+location data 4/10: au9o4ahva0
+checking available time for travel
+location data 5/10: 6x3browk35
+getting utt body indexes
+deploying anti-anti aircraft systems
+starting takeoff procedure
+location data 6/10: h1wodeu2kj
+clearing air space at home planet
+location data 7/10: 2fntxdg3yk
+takeoff systems operational
+ready for takeoff, please send fly request with details
+getting information required for takeoff back to home planet
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+location data 8/10: msry1f6lsw
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+determining chosen lane for travel: earth.jup
+location data 9/10: 6aov505ssn
+initializing parameters for take off procedure
+retrieving temperature at current planet
+selecting airport for takeoff
+
+location_md5=00000000000000000000000000000000,airport=unselected,time=15:52,lane=earth.jup,vehicle=2554,fly
+
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+location data 10/10: 1yv7j18iod
+requesting to clear air field
+timed out

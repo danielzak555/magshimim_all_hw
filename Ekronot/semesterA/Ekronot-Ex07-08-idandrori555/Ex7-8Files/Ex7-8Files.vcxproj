@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{11111111-1111-1111-1111-111111111111}</ProjectGuid>
+    <RootNamespace>Ex7-8Files</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ItemGroup>
+    <ClCompile Include="Queen.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="King.cpp" />
+    <ClCompile Include="Piece.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Rook.cpp" />
+    <ClCompile Include="Knight.cpp" />
+    <ClCompile Include="Pawn.cpp" />
+    <ClCompile Include="Board.cpp" />
+    <ClCompile Include="Bishop.cpp" />
+    <ClCompile Include="Validator.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Rook.h" />
+    <ClInclude Include="Board.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="King.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Bishop.h" />
+    <ClInclude Include="Piece.h" />
+    <ClInclude Include="Knight.h" />
+    <ClInclude Include="Pipe.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="const.h" />
+    <ClInclude Include="Queen.h" />
+    <ClInclude Include="Pawn.h" />
+    <ClInclude Include="Validator.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+</Project>

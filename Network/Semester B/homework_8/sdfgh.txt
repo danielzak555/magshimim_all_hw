@@ -1,0 +1,57 @@
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+determining chosen lane for travel: earth.jup
+retrieving information about current planet
+initializing parameters for take off procedure
+location data 2/10: 9yisawl6d5
+selecting airport for takeoff
+location data 3/10: vh8ps1atqt
+requesting to clear air field
+scanning air field
+scanning air field (infra-red)
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+location data 4/10: au9o4ahva0
+synchronizing threads
+location data 5/10: 6x3browk35
+vehicle chosed for travel: id 2554
+preparing wormhole engine
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+checking available time for travel
+location data 6/10: h1wodeu2kj
+getting utt body indexes
+location data 7/10: 2fntxdg3yk
+starting takeoff procedure
+landing airport ready at home planet
+clearing air space at home planet
+location data 8/10: msry1f6lsw
+takeoff systems operational
+location data 9/10: 6aov505ssn
+getting information required for takeoff back to home planet
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+checking for compatible version
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+determining chosen lane for travel: earth.jup
+location data 10/10: 1yv7j18iod
+initializing parameters for take off procedure
+location data 1/10: hwuym7iiwf
+selecting airport for takeoff
+***error with fly message***;location md5 is wrong! perform md5 hash on the 100 char buffer!;
+airport selected for takeoff: nevada25.84
+requesting to clear air field
+location data 2/10: 9yisawl6d5
+scanning air field (infra-red)
+location data 3/10: vh8ps1atqt
+synchronizing threads
+retrieving information available vehicles for takeoff
+vehicle chosed for travel: id 2554
+location data 4/10: au9o4ahva0
+checking available time for travel
+location data 5/10: 6x3browk35
+getting utt body indexes
+deploying anti-anti aircraft systems
+starting takeoff procedure
+location data 6/10: h1wodeu2kj
+clearing air space at home planet
+location data 7/10: 2fntxdg3yk
+takeoff systems operational
+ready for takeoff, please send fly request with details
+getting information required for takeoff back to home planet

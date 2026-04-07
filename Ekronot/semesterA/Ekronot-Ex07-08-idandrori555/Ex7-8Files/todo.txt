@@ -1,0 +1,8 @@
+IN: e2e4, OUT: "rnbqkbnrpppppppp################################PPPPPPPPRNBQKBNR0"
+
+while not won:
+	1 get move from frontend.
+	2 check if move is valid
+	3 make move
+	4 check for checkmate / anything else 
+	5 return updated board + code.
